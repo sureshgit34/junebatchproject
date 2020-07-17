@@ -4,4 +4,8 @@ class WelcomeProject
  {
   System.out.println("Hello Git...Please Welcome");
  }
+ void Navasoftgit()
+ {
+  System.out.println("Hello NavaSoft...GitHub....Please Welcome");
+ }
 } 
