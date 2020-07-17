@@ -1,0 +1,7 @@
+class WelcomeProject
+{
+ void hellogit()
+ {
+  System.out.println("Hello Git...Please Welcome");
+ }
+} 
